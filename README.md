@@ -8,7 +8,7 @@ To power up your Denial of Service Attack, use the Load Balancer checker, if the
 #Install
 
 ```
-git clone xxxxx
+git clone https://github.com/rickgds80/rick_dos.git
 
 cd rick_dos
 sudo chmod +x rickhack.pl rickhack_loadbalancer_check.sh
