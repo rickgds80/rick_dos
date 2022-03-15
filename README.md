@@ -1,5 +1,5 @@
 # rick_dos and Load Balancer Check
-Tool Write in Python to Make Denial of Service and Verify if Site have Load Balancer
+Tool Write in Perl to Make Denial of Service and Verify if Site have Load Balancer write in shell script
 
 I recomend use Linux to make attack, this tool make SYN flood on DNS
 
