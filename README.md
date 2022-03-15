@@ -27,8 +27,11 @@ sudo apt-get install perl-doc
 Load Balancer Check:
 
 usage: ./rickhack_loadbalancer_check.sh [domain]
+
 Dont use http or https in name of domain
+
 usage: ./rickhack_loadbalancer_check.sh example.com
+
 
 ```
 ./rickhack_loadbalancer_check.sh example.com
