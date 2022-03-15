@@ -80,6 +80,26 @@ Attack with Cache
 ```
 
 
+# if you want executting the Attack in anonymous mode, you can combine with proxychains:
+
+Install Dependencies:
+```
+sudo apt install tor
+sudo apt install proxychains
+```
+
+Usage: 
+tor and proxychains in front of rickhack.pl commands, like the example:
+```
+tor &
+proxychains ./rickhack.pl -dns www.example.com -port 80 
+```
+
+![image](https://user-images.githubusercontent.com/38327991/158490018-1f08aa16-66f6-4645-b232-9e18a3a934ff.png)
+
+
+
+
 # Glory to Ukraine!!!
 
 ![image](https://user-images.githubusercontent.com/38327991/158488171-b2d3fb1a-d100-4940-ac47-a9bd9dc0c2f0.png)
